@@ -85,7 +85,7 @@ author:
   bio              : "A reading phd in IECAS"
   location         : "北京市海淀区中关村东路80号"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "ustb_lyf@sina.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -105,7 +105,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/14286060/yunfei-liu" # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "14286060/yunfei-liu" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : # "replacethistwitterhandle"
